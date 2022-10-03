@@ -18,6 +18,6 @@
     <h4>Olah Raga Favorit</h4>
     <ul type="square">
         <li>e-sport</li>
-        <li>Angkat Galon</li>
+        <li>Angkat Beban</li>
     </ul>
 </section>
